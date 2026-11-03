@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+
 // TO-DO: Escribir el contexto del problema
 
 int main() {
