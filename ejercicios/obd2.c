@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-
-// TO-DO: Escribir el contexto del problema
+/*
+ * Tercer problema a resolver con el cerebro con C.
+ * Conflicto: En un arreglo de tipo entero encuentra el codigo 502, si lo encuentras que lo indice
+ * y si no que muestre que no hay codigos registadros en el sistema.
+ */
 
 int main() {
 
