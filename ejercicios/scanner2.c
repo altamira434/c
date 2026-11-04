@@ -59,5 +59,9 @@ int main() {
         printf("Indice: %d | Dirección: %p | Valor: %d\n", i, (void *) (espacio + i), *(espacio + i));
     }
 }
+
+    free(espacio);
+    espacio = NULL;
+
     return 0;
 }
